@@ -1,5 +1,5 @@
 # simplePatternQuestionsInJava
-Implementation of multiple types of simple pattern questions (triangle, rectange, half pyramid, floyd's, etc) in java in command line terminal
+Implementation of multiple types of simple and advanced pattern questions (triangle, rectange, half pyramid, floyd's, etc) in java in command line terminal
 This implementation uses simple loops like if-else and for loops
 
 Given below are snippets of output of each pattern on command line interface:
@@ -92,7 +92,96 @@ output:
 
 ![image](https://github.com/raghav20232023/simplePatternQuestionsInJava/assets/153320363/e4f6ed89-4add-41df-97d9-2b304bac486c)
 
+10. solidRhombus
+
+code snippet:
+
+![image](https://github.com/raghav20232023/simplePatternQuestionsInJava/assets/153320363/0359b8e2-31e5-47db-b47c-aff95cf1e0aa)
+
+output:
+
+![image](https://github.com/raghav20232023/simplePatternQuestionsInJava/assets/153320363/a2353e04-51b4-4667-bd3e-6d3f75ae9d1c)
+
+11. numberPyramid
+
+code snippet:
+
+![image](https://github.com/raghav20232023/simplePatternQuestionsInJava/assets/153320363/552e1da7-3125-4cdf-911b-31f121fdc91f)
+
+output:
+
+![image](https://github.com/raghav20232023/simplePatternQuestionsInJava/assets/153320363/b70e4455-6241-463b-8cc9-d4263b5ff2be)
+
+12. butterfyPattern
+
+code snippet:
+
+![image](https://github.com/raghav20232023/simplePatternQuestionsInJava/assets/153320363/234635f1-bea9-403f-a42e-0639b262fc5c)
+![image](https://github.com/raghav20232023/simplePatternQuestionsInJava/assets/153320363/6713e8a4-47b2-442b-a548-b509712aacbb)
+
+output:
+
+![image](https://github.com/raghav20232023/simplePatternQuestionsInJava/assets/153320363/6c65a296-602e-44d9-94f1-91990800049e)
+
+13. alternateButterflyPattern
+
+code snippet:
+
+![image](https://github.com/raghav20232023/simplePatternQuestionsInJava/assets/153320363/a7ca83e7-3992-4005-9f7d-5c65d1ea7f33)
+![image](https://github.com/raghav20232023/simplePatternQuestionsInJava/assets/153320363/c77750eb-4aea-4815-9bdc-e2c9960f5acd)
+
+output:
+
+![image](https://github.com/raghav20232023/simplePatternQuestionsInJava/assets/153320363/700efabe-d3fc-4eae-ae0d-5989d441b9f5)
+
+14. invertedNumberPyramid
+
+code snippet:
+
+![image](https://github.com/raghav20232023/simplePatternQuestionsInJava/assets/153320363/fe147811-3626-43a0-905b-5e480f948340)
+
+output:
+
+![image](https://github.com/raghav20232023/simplePatternQuestionsInJava/assets/153320363/b4536dcb-e390-4a22-ab89-d99dd96a91f0)
+
+15. palindromicPattern
+
+code snippet:
+
+![image](https://github.com/raghav20232023/simplePatternQuestionsInJava/assets/153320363/b9990ba3-7f19-4ad4-855d-e357e2b0199b)
+
+output:
+
+![image](https://github.com/raghav20232023/simplePatternQuestionsInJava/assets/153320363/568de392-55a6-4186-9ffe-5921cc0a98b1)
+
+16. diamondPattern
+
+code snippet:
+
+![image](https://github.com/raghav20232023/simplePatternQuestionsInJava/assets/153320363/78370b82-8aa9-4660-8bc3-e0269351fc38)
+![image](https://github.com/raghav20232023/simplePatternQuestionsInJava/assets/153320363/86fa7ca4-9b89-4641-8a1d-6e4d302ef3ef)
+
+output:
+
+![image](https://github.com/raghav20232023/simplePatternQuestionsInJava/assets/153320363/6519b058-da15-49af-a073-27c8fd88c2c9)
+
 end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
